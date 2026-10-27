@@ -168,24 +168,6 @@ This project is designed as a diagnostic support aid for healthcare workers and 
 
 ---
 
-## Contributing
-
-Contributions are welcome. You can help by:
-- improving the user interface
-- adding multilingual enhancements
-- improving model performance
-- refining clinical workflows
-- enhancing offline reliability
-- documenting technical usage and deployment steps
-
-If you’d like to contribute:
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Open a pull request with a clear description
-
----
-
 ## License
 
 This project currently does not specify a license.  

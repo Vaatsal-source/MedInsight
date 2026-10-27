@@ -1,4 +1,3 @@
-```markdown
 # CareSathi: AI-Powered Rural Healthcare Suite
 
 CareSathi is an AI-powered healthcare platform designed to support frontline medical workers in rural and low-resource settings. It combines local AI models for triage, voice-assisted data entry, visual diagnostics, and inventory tracking into a single offline-friendly system.
@@ -74,7 +73,7 @@ CareSathi helps bridge these gaps by giving workers an intelligent, multilingual
 ```bash
 git clone https://github.com/Vaatsal-source/MedInsight.git
 cd MedInsight
-```
+
 
 ### 2. Install Python Dependencies
 ```bash
